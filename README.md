@@ -6,7 +6,7 @@ A simple and efficient To-Do List application built with **React.js, Node.js, Ex
 
 ## 🚀 Features
 
-- ✅ **Add, Edit, and Delete Tasks**
+- ✅ **Add,Edit, and Delete Tasks**
 - 📱 **Responsive UI for Mobile & Desktop**
 
 ---
